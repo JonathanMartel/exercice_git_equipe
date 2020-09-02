@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Sacha Pignot
 console.log("test")
 
