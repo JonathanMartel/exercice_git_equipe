@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Jean-Christophe Parent-Paquette
 console.log("test")
 
