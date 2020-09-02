@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Marine Menoret
 console.log("test")
 
