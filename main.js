@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Chingiz Taghizade
 console.log("test")
 
