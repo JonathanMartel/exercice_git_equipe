@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Marianne Soucy
 console.log("test")
 
